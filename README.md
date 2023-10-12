@@ -1,1 +1,3 @@
 # CoverQuick-Project
+1.	Introduction
+CoverQuick, an AI-powered tool, assists job seekers globally in creating job documents such as resumes and cover letters. The demographics of the users include students, career changers, and immigrants looking to apply to remote roles in various industries. In this project, we analyzed the CoverQuick dataset of job applications and resumes to ascertain the primary industries, roles, and demographics the company should focus on. The data is structured in a JSON format, which was used to determine where best to allocate CoverQuick's marketing efforts to reach their ideal customers.
